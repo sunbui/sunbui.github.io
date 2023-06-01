@@ -1,0 +1,41 @@
+
+
+
+h1 
+{
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+}
+p 
+{
+    color: #fff;
+    font-size: 12px;
+}
+a 
+{
+    color: #fff;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 23px;
+}
+a:hover 
+{
+    color: var(--primary-color);
+}
+i 
+{
+    padding: 0px 0px;
+}
+.footer {
+    list-style-type: none;
+    top: 100%;
+    position: sticky;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#f5ded9;
+  }
+  footer p{
+    font-family:   'Dancing Script',;
+    color: #add1c3;
+  }
