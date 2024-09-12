@@ -1,0 +1,27 @@
+.container {
+  
+  font-family: "Quicksand", Arial, sans-serif;
+}
+.p-profile {
+  background: url("/");
+  width: 100%;
+  height:650px;
+  background-size: cover;
+  background-position: top; 
+  background-repeat: no-repeat;   
+}
+.p-tag { 
+  background: gray;
+  color: white; 
+  padding: 5px 10px ; 
+  font-size: 14px ;
+}
+.p-des{
+  color: #605350;
+  width: 100%;
+}
+.p{
+margin-bottom: 1.5em;
+color: black;
+font-family: 'Montserrat', sans-serif;
+}
